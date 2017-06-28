@@ -37,6 +37,6 @@ if($user->roleIs('admin)){
 }
 
 if($user->roleIn(['admin','manager'])){
-    //user is admin or manager
+    //user is admin or manager role
 }
 ```
