@@ -1,0 +1,13 @@
+{
+    "name": "kilroyweb/roles",
+    "description": "Support for user roles",
+    "keywords": ["laravel"],
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "KilroyWeb\\Roles\\": "src"
+        }
+    }
+}
